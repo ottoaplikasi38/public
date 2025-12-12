@@ -1,1 +1,6 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/394dad60-8a1a-31a8-912c-a207555bc939/logo/original_20211113210745.svg" group-title="Live Streambtw Sports", UFC Fight Night: Royval vs Kape
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streambtw.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://streambtw.com
+#KODIPROP:inputstream.adaptive.stream_headers=User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://streameast.asia/playlist/stream_ufc.m3u8?md5=gZv43Q4a_vwBaNIOCqvR4A&expires=1765578130
