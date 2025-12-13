@@ -1,6 +1,16 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/394dad60-8a1a-31a8-912c-a207555bc939/logo/original_20211113210745.svg" group-title="Live Streambtw Sports", UFC Fight Night: Royval vs Kape
+#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Streambtw Sports", Olympique Marseille vs Monaco
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streambtw.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://streambtw.com
 #KODIPROP:inputstream.adaptive.stream_headers=User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://streambtw.com/playlist/stream_ufc.m3u8?md5=no1UO6dKwIlmnXBXajigSg&expires=1765668109
+https://playlist.streameast247.com/playlist/stream_13.m3u8?md5=mUJopRjHJiwXtjTAJERvCA&expires=1765671705
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="Live Streambtw Sports", Indianapolis Colts vs Seattle Seahawks
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streambtw.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://streambtw.com
+#KODIPROP:inputstream.adaptive.stream_headers=User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://streameast247.com/playlist/stream_nfl12.m3u8?md5=VH6tk1m2nuXijxvoDuKWqw&expires=1765671706
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="Live Streambtw Sports", Tennessee Titans vs San Francisco 49ers
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streambtw.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://streambtw.com
+#KODIPROP:inputstream.adaptive.stream_headers=User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://streameast247.com/playlist/stream_nfl13.m3u8?md5=DXIXwxy_ZbW3ZWehE-OieA&expires=1765671707
