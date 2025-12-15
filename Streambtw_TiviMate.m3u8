@@ -3,14 +3,14 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streambtw.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://streambtw.com
 #KODIPROP:inputstream.adaptive.stream_headers=User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://edge3.streameast.asia/stream/ch8.stream/chunklist.m3u8?md5=AObsQftQhqCrya-luLDYCw&expires=1765777427
+https://edge3.streameast.asia/stream/ch8.stream/chunklist.m3u8?md5=SicSeW1hCFKIPMJfstmI6g&expires=1765780140
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="Live Streambtw Sports", Indianapolis Colts vs Seattle Seahawks
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streambtw.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://streambtw.com
 #KODIPROP:inputstream.adaptive.stream_headers=User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://streambtw.com/playlist/stream_nfl12.m3u8?md5=XKkfMUvTbo0GZ2tz_PpC4g&expires=1765777430
+https://streambtw.com/playlist/stream_nfl12.m3u8?md5=nHxFbWvmRmkqZ9uhMl8ndQ&expires=1765780141
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="Live Streambtw Sports", Tennessee Titans vs San Francisco 49ers
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streambtw.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://streambtw.com
 #KODIPROP:inputstream.adaptive.stream_headers=User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://streambtw.com/playlist/stream_nfl13.m3u8?md5=IRGWe3EbS7wN747JzpMi2A&expires=1765777430
+https://streambtw.com/playlist/stream_nfl13.m3u8?md5=HB69S0XsgJGqo9dyGfvMHw&expires=1765780141
